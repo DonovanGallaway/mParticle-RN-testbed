@@ -1,0 +1,13 @@
+current directory: /Users/dgallaway/Documents/development/superCoolTestbed/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+/Users/dgallaway/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/dgallaway/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20220329-91812-1k8u8rh.rb extconf.rb
+creating Makefile
+
+current directory: /Users/dgallaway/Documents/development/superCoolTestbed/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/dgallaway/Documents/development/superCoolTestbed/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/dgallaway/Documents/development/superCoolTestbed/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" install
